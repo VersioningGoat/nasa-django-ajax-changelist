@@ -1,7 +1,7 @@
 Django AJAX Changelist
 ===============================
 
-Testing a change - again
+omg bears in space......
 
 This project extends Django ModelAdmin to support editing specified fields directly from the changelist (the Django admin's listview of objects of a given Model).
 
