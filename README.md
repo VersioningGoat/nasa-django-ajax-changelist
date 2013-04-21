@@ -1,6 +1,8 @@
 Django AJAX Changelist
 ===============================
 
+Testing a change - again
+
 This project extends Django ModelAdmin to support editing specified fields directly from the changelist (the Django admin's listview of objects of a given Model).
 
 AJAX editing of fields from the changelist is useful when you need to quickly change a few properties of objects in the changelist -- instead of clicking through to each object's page, saving, and returning to the list, you can make the edits right from the list.
